@@ -3,4 +3,4 @@ Disallow: /*?
 Allow: /*.js
 Allow: /*.css
 
-Sitemap: https://winlinkcasino.net/sitemap.xml
+Sitemap: https://winlinkcasino.github.io/sitemap.xml
